@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/akopuz/Downloads/sun.misc.BASE64Decoder.jar/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akopuz/Downloads/javax.json-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akopuz/Downloads/commons-codec-1.7.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/akopuz/Downloads/org-apache-commons-codec.jar/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
