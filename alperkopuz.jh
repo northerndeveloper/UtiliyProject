@@ -1,0 +1,12 @@
+entity Alper {
+		alper1 String
+}
+
+entity Kopuz {
+		kopuz1 String
+  }    
+
+relationship OneToOne {
+	Alper{alper} to Kopuz
+}
+
